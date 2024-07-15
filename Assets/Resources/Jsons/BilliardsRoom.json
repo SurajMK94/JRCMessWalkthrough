@@ -1,0 +1,50 @@
+﻿{
+  "locationName": "BilliardsRoom",
+  "locationCameraAngle": "190",
+  "teleportIndicatorsGroup": [
+    {
+      "teleportIndicatorName": "Bar",
+      "teleportIndicatorPosition": "-8.24,-4.21,1.46"
+    },
+    {
+      "teleportIndicatorName": "AnteRoom",
+      "teleportIndicatorPosition": "-0.6,-4.21,6.29"
+    },
+    {
+      "teleportIndicatorName": "DiningHall1",
+      "teleportIndicatorPosition": "7.6,-4,-1.95"
+    }
+  ],
+  "hotSpotsGroup": [
+    {
+      "hotSpotName": "Front wall",
+      "hotSpotDetails": "This room is of heritage value and reminiscence ones of the old days. We can see a big painting right at the center of the wall depicting officers playing Billiards. Vintage sticks are also preserved.",
+      "hotSpotPosition": "-4.23999977,-0.370000005,-8.63000011",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Trophy 1",
+      "hotSpotDetails": "This trophy is placed in the memory of all the winners of tournaments.",
+      "hotSpotPosition": "3.6099999,-1.98000002,-8.56999969",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Trophy 2",
+      "hotSpotDetails": "This trophy is presented by BRIG Gautam Tandon and all ranks. ",
+      "hotSpotPosition": "-7.80999994,-1.98000002,-5.38999987",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Vintage Steam Iron press",
+      "hotSpotDetails": "At the far corner a Vintage steam iron press is preserved in its original form.",
+      "hotSpotPosition": "-6.57000017,-1.46000004,6.26999998",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Portraits of Colonel of the Jat Regiment",
+      "hotSpotDetails": "Up at the wall we can see beautiful handmade portraits of all Colonel of the JAT Regiment till date.",
+      "hotSpotPosition": "8.78999996,0.860000014,-3.9000001",
+      "tagGroup": null
+    }
+  ]
+}

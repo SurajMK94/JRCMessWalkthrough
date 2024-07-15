@@ -1,0 +1,48 @@
+﻿{
+  "locationName": "DiningHall2",
+  "locationCameraAngle": "265",
+  "teleportIndicatorsGroup": [
+    {
+      "teleportIndicatorName": "DiningHall1",
+      "teleportIndicatorPosition": "-6.33,-3.18,5.52"
+    }
+  ],
+  "hotSpotsGroup": [
+    {
+      "hotSpotName": "War Painting",
+      "hotSpotDetails": "In this painting soldiers are fighting in the battlefiled gives glimpse of valour of Balwans to the dining in members.",
+      "hotSpotPosition": "-9.23999977,-0.930000007,2.28999996",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Trophy 1",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "-4.86999989,-1.62,8.07999992",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Trophy 3",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "8.13000011,-1.20000005,4.90999985",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Trophy 4",
+      "hotSpotDetails": "Lt Col R S Saharan, KC presented this in the memory of Major B R Saharan to 11th Battalion of the JAT Regiment",
+      "hotSpotPosition": "8.71000004,-1.20000005,-3.70000005",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "JAT Sentry Standing",
+      "hotSpotDetails": "In this painting we can see an armed soldier posted at a Dograi to stand guard and keep watch",
+      "hotSpotPosition": "2.1099999,-1.20000005,-9.34000015",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Trophy 2",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "0.720000029,-2.1500001,9.39999962",
+      "tagGroup": null
+    }
+  ]
+}

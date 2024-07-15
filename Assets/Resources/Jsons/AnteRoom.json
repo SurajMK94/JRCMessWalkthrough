@@ -1,0 +1,78 @@
+﻿{
+  "locationName": "AnteRoom",
+  "locationCameraAngle": "270",
+  "teleportIndicatorsGroup": [
+    {
+      "teleportIndicatorName": "BilliardsRoom",
+      "teleportIndicatorPosition": "-3.2,-4.38,7.61"
+    },
+    {
+      "teleportIndicatorName": "LadiesRoom",
+      "teleportIndicatorPosition": "-2.56,-4.04,-7.69"
+    },
+    {
+      "teleportIndicatorName": "DiningHall1",
+      "teleportIndicatorPosition": "-8.29,-3.34,-0.52"
+    },
+    {
+      "teleportIndicatorName": "Foyer",
+      "teleportIndicatorPosition": "7.89,-3.01,-0.25"
+    }
+  ],
+  "hotSpotsGroup": [
+    {
+      "hotSpotName": "Bicentenary Trophy",
+      "hotSpotDetails": "This trophy is situated right at the centre of the ante room and it is the main attraction. The alignment of the trophy is with main chandelier. It is made of silver and is carefully placed on marble top of wooden table. The trophy was unveiled diring Bicentenary celebrations in 1995 and is presented by Colonel of the regiment and all ranks, The Jat Regiment in November 1995. \n\n Weight of metal: 13.112 Kg. \n\n Original value: 1,79,509/- \n\n Vintage: 1995",
+      "hotSpotPosition": "-7.48999977,-5.88999987,0.699999988",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Handmade Painting 1 - OP Rakshak",
+      "hotSpotDetails": "This painting depicts OP Ranga Wari, 34 RR BN During OP Rakshak on 2nd OCT 2007.",
+      "hotSpotPosition": "-7.90999985,-0.25,-5.36000013",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Handmade Painting 2 - OP Rakshak",
+      "hotSpotDetails": "This painting tells about OP Nao Nar, 45 RR BN during OP Rakshak on 22 AUG 2008.",
+      "hotSpotPosition": "-7.71000004,-0.0599999987,5.71000004",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Handmade Painting 3 - Kargil 1999",
+      "hotSpotDetails": "This painting is about OP Vijay, which is Kargil war of 1999.",
+      "hotSpotPosition": "7.42000008,-0.0599999987,5.71000004",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "XVII Reunion Silver Trophy",
+      "hotSpotDetails": "XVII Reunion trophy is from NOV 2017 in memory of all those who laid down their lives in World War - I, World War - II and campaigns. \n\n Weight of metal: 1.98 Kg. \n\n Original value: 1,50,000/- \n\n Vintage: 2017",
+      "hotSpotPosition": "-8.81000042,-0.769999981,-3.73000002",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "XVI Reunion Silver Trophy",
+      "hotSpotDetails": "XVI Reunion trophy is from NOV 2013. \n\n Weight of metal: 5.950 Kg. \n\n Original value: 4,79,750/- \n\n Vintage: 2013",
+      "hotSpotPosition": "-8.40999985,-0.769999981,4.42000008",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Vintage Piano",
+      "hotSpotDetails": "At the entrance of anteroom a vintage piano is preserved as regtl artefact. The piano was widely used by British officers as a source of entertainment during their campaigns. Post independence, the said artefact is preserved in JAT Offrs' Mess.'",
+      "hotSpotPosition": "9.22999954,-0.75,2.3499999",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Ante Room Entrance",
+      "hotSpotDetails": "The main anteroom is the hub of activity during social get togethers and regtl dinner nights. The entrance has two officers photos placed on the table as a tribute to their bravery. The wall is adorned with two crossed swords.",
+      "hotSpotPosition": "9.22999954,-0.75,-2.75999999",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Tiger Trophy",
+      "hotSpotDetails": "The walls of anteroom are beautifully adorned with this animal trophy. It is shot and gifted by Indian officer J S Sarna in 1964.",
+      "hotSpotPosition": "6.98000002,1.07000005,-6.46999979",
+      "tagGroup": null
+    }
+  ]
+}

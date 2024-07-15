@@ -1,0 +1,88 @@
+﻿{
+  "locationName": "LadiesRoom",
+  "locationCameraAngle": "255",
+  "teleportIndicatorsGroup": [
+    {
+      "teleportIndicatorName": "AnteRoom",
+      "teleportIndicatorPosition": "-3.52,-3.67,7.57"
+    },
+    {
+      "teleportIndicatorName": "SilverGallery",
+      "teleportIndicatorPosition": "-8.51,-3.25,-1.15"
+    }
+  ],
+  "hotSpotsGroup": [
+    {
+      "hotSpotName": "Batapore Dograi Memorial cup",
+      "hotSpotDetails": "This cup is presented by Retd Maj Gen K S Bajwa on Nov 2007. \n\n Weight of metal: 3.450 Kg. \n\n Original value: 1,25,000/- \n\n Vintage: 2007.",
+      "hotSpotPosition": "-6.57000017,-6.28000021,-2.08999991",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Trophy Tusk",
+      "hotSpotDetails": "This trophy is presented by Lt Gen R Nara Simhan. \n\n Weight of metal: 0.200 Kg.",
+      "hotSpotPosition": "-0.379999995,-3.01999998,9.18999958",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Wall Sketches",
+      "hotSpotDetails": "The walls of ladies room are adorned with beautiful wall sketches with glass overlayes depicting story of the Regtl stock - The JAT soldier.",
+      "hotSpotPosition": "6.36000013,0.400000006,7.17999983",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Shields",
+      "hotSpotDetails": "Athletics shield, Intercoy AMES challenge shield and Battalion Hockey Inter championship shield are the theree shields showcased on the wall of ladies room.",
+      "hotSpotPosition": "3.29999995,0.910000026,9",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Trophy 1",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "7.51000023,-1.55999994,5.88999987",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Trophy 2",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "9.47000027,-1.66999996,-0.389999986",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "APCs",
+      "hotSpotDetails": "Two APCs are presented to the JAT REGT. \n\n APC present in the left side is silver plated and is presented by All Ranks the MACH INF REGT center on 26th March 1987. It has original value of 5000 Rs. \n\n Another APC is presented by Lt Col S S Kaler and all ranks 1st BN on 02 APR 1979. This is white metal having original value of 5000 Rs.",
+      "hotSpotPosition": "9.23999977,-1.04999995,-2.1500001",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Ivory Tusk Trophy",
+      "hotSpotDetails": "This trophy is presented by Maj Ran Singh on 26 AUG 1970. \n\n Weight of metal: 0.100 Kg. \n\n Original value: 4792/-",
+      "hotSpotPosition": "4.8499999,-3.86999989,-7.21000004",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Memento by ASC School",
+      "hotSpotDetails": "Its a brass memento presented by Commandant and all ranks of ASC schhol to commemorate movement of ASC school.",
+      "hotSpotPosition": "-9.13000011,-1.39999998,2.70000005",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Trophy 3",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "-4.79400015,-0.704999983,-8.3409996",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Inter BN Champion Shield",
+      "hotSpotDetails": "Inter BN Championship Shield is presented to JAT REGT Center in 1950. \n\n Weight of metal: 0.700 Kg. \n\n Original value: 5985/- \n\n Vintage: 1950",
+      "hotSpotPosition": "-3.47000003,-0.180000007,-9.02999973",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Intercoy Championship Shield",
+      "hotSpotDetails": "This shield is from Intercoy championship with JAT crest. \n\n Weight of metal: 0.600 Kg. \n\n Original value: 8208/-",
+      "hotSpotPosition": "0.980000019,-0.180000007,-9.59000015",
+      "tagGroup": null
+    }
+  ]
+}

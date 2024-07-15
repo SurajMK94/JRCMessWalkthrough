@@ -1,0 +1,67 @@
+﻿{
+  "locationName": "Foyer",
+  "locationCameraAngle": "-86",
+  "teleportIndicatorsGroup": [
+    {
+      "teleportIndicatorName": "AnteRoom",
+      "teleportIndicatorPosition": "-7.57,-3.01,0.65"
+    },
+    {
+      "teleportIndicatorName": "Exterior",
+      "teleportIndicatorPosition": "7.85,-4.08,-0.89"
+    }
+  ],
+  "hotSpotsGroup": [
+    {
+      "hotSpotName": "Horse Tie up rod",
+      "hotSpotDetails": "This rod is used to tie the horse before entering the building. Its present in both sides of the entrance.",
+      "hotSpotPosition": "-7.4,-3.35,-4.84",
+      "tagGroup": [
+        {
+          "tagName": "T2a",
+          "tagDetails": "",
+          "tagPosition": "0,0,0"
+        },
+        {
+          "tagName": "T2a",
+          "tagDetails": "",
+          "tagPosition": "0,0,0"
+        }
+      ]
+    },
+    {
+      "hotSpotName": "Foyer Left Side Area",
+      "hotSpotDetails": "This area is present at the left side of the entrance. It contains Memento Gallery, write up on Institution within an Institution and a field artillary.",
+      "hotSpotPosition": "-9.34,-0.17,-2.18",
+      "tagGroup": [
+        {
+          "tagName": "T2a",
+          "tagDetails": "",
+          "tagPosition": "0,0,0"
+        },
+        {
+          "tagName": "T2a",
+          "tagDetails": "",
+          "tagPosition": "0,0,0"
+        }
+      ]
+    },
+    {
+      "hotSpotName": "Foyer Right Side Area",
+      "hotSpotDetails": "This area is present at the right side of the entrance. This contains more information about all the blocks present in JRC mess.",
+      "hotSpotPosition": "-8.66,-0.17,3.86",
+      "tagGroup": [
+        {
+          "tagName": "T2a",
+          "tagDetails": "",
+          "tagPosition": "0,0,0"
+        },
+        {
+          "tagName": "T2a",
+          "tagDetails": "",
+          "tagPosition": "0,0,0"
+        }
+      ]
+    }
+  ]
+}

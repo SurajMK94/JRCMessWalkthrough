@@ -1,0 +1,11 @@
+﻿{
+  "locationName": "Exterior",
+  "locationCameraAngle": "80",
+  "teleportIndicatorsGroup": [
+    {
+      "teleportIndicatorName": "Foyer",
+      "teleportIndicatorPosition": "8.66,-3.44,0.59"
+    }
+  ],
+  "hotSpotsGroup": null
+}

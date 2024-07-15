@@ -1,0 +1,40 @@
+﻿{
+  "locationName": "Bar",
+  "locationCameraAngle": "95",
+  "teleportIndicatorsGroup": [
+    {
+      "teleportIndicatorName": "BilliardsRoom",
+      "teleportIndicatorPosition": "-0.51,-4.38,8.21"
+    },
+    {
+      "teleportIndicatorName": "Foyer",
+      "teleportIndicatorPosition": "-0.51,-4.91,-6.25"
+    }
+  ],
+  "hotSpotsGroup": [
+    {
+      "hotSpotName": "Centenary Trophy",
+      "hotSpotDetails": "This trophy is instituted by Brig A K Butail to the Jat Regimental Centre. It has Silver weight of 1.1 Kg.\n\n Original value: 1,60,000 \n\n Vintage: 2022",
+      "hotSpotPosition": "-9.06000042,-0.0599999987,1.34000003",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Bar Main area",
+      "hotSpotDetails": "This area is named as The Jats, where the officers sit and enjoy different taste of beverages.",
+      "hotSpotPosition": "9.43000031,-0.50999999,-1.02999997",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Caricature",
+      "hotSpotDetails": "Pictures of officers are depicted in comic effect. These photos are hanged on the right side wall of the bar. Total 13 such photos are present.",
+      "hotSpotPosition": "4.30999994,-0.50999999,-8.39999962",
+      "tagGroup": null
+    },
+    {
+      "hotSpotName": "Pipe collection",
+      "hotSpotDetails": "Different kind of pipes are placed in this show case. This is placed on to the left side wall.",
+      "hotSpotPosition": "8.34000015,-0.50999999,4.55999994",
+      "tagGroup": null
+    }
+  ]
+}
