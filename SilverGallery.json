@@ -1,0 +1,682 @@
+﻿{
+  "locationName": "SilverGallery",
+  "locationCameraAngle": "70",
+  "teleportIndicatorsGroup": [
+    {
+      "teleportIndicatorName": "LadiesRoom",
+      "teleportIndicatorPosition": "-0.74,-5.04,6.57"
+    }
+  ],
+  "hotSpotsGroup": [
+    {
+      "hotSpotName": "Silver Items Set 1 (2001 - Till date)",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "-9.45,0.6,0.5",
+      "tagsGroup": [
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-163.4,79,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-84.7,79,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "4.9,79,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-225,-33,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-141.3,-33,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-77.60001,-33,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-22.39999,-33,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "26.6,-33,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "42.7000008,-46.2000008,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-271,-164,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-185,-164,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-98,-164,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "36,-164,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-360,10,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-360,-95,0"
+        }
+      ]
+    },
+    {
+      "hotSpotName": "Silver Items Set 2 (2001 - Till date)",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "4.25,-4.23999977,-7.44999981",
+      "tagsGroup": [
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-319,20,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-250,37,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-221,37,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-188,37,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-162,37,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "15,57,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-320,-43,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-259.300293,-43,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-224.199997,-43,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-192.800003,-43,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-162.800003,-43,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-129.899994,-43,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-99.1999969,-43,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-59,-43,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-314.200012,-138.100006,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-255.699997,-138.100006,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-198.600006,-138.100006,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-135,-138.100006,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-82.3000031,-138.100006,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-21.6000004,-138.100006,0"
+        }
+      ]
+    },
+    {
+      "hotSpotName": "Silver Items Set 3 (2001 - Till date)",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "8.10999966,-1.78999996,-4.86000013",
+      "tagsGroup": [
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-154.800003,87,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-275,31.7000008,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-196.5,20.1000004,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-160.600006,20.1000004,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-119.900002,20.1000004,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-275.100006,-62.2999992,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-188.800003,-74.9000015,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-128.600006,-74.9000015,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-159,-182,0"
+        }
+      ]
+    },
+    {
+      "hotSpotName": "Silver Items Set 4 (1951 - 2000)",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "9.17000008,-1.41999996,-2.50999999",
+      "tagsGroup": [
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-229,103,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-358,4,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-276,4,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-210,53,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-158,53,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-116,53,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-66,53,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-356.600006,-87.4000015,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-216,-38,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-261.5,-151.300003,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-191.800003,-151.300003,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-128.699997,-151.300003,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-70.5,-151.300003,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-4.9000001,-151.300003,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-245.100006,-104.599998,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-182.800003,-104.599998,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-124.599998,-104.599998,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-77.9000015,-104.599998,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-19.7000008,-104.599998,0"
+        }
+      ]
+    },
+    {
+      "hotSpotName": "Silver Items Set 5 (1800 - 1950)",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "9.53999996,-1.29999995,-0.0500000007",
+      "tagsGroup": [
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-230,87,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-161.300003,87,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-118.199997,87,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-59.5999985,87,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-271.200012,-22,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-240.199997,-22,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-210.100006,-22,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-181.899994,-22,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-170.600006,15.6000004,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-125.400002,-22,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-69.9000015,-22,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-36,-22,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "9.19999981,-22,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-128.100006,44.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-335.299988,-62.4999924,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-294,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-250.699997,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-217.899994,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-194.100006,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-173.600006,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-151.899994,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-130.899994,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-99.8000031,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-70,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-31.7000008,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "39.0999985,-62.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-352.299988,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-316.399994,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-289.299988,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-264.899994,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-238.5,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-210.699997,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-168.699997,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-183.699997,-86.6999969,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-116.199997,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-87.3000031,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-94.6999969,-83.0999985,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-47.4000015,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-54.7999992,-83.0999985,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-15.1999998,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-26.2000008,-83.0999985,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "12.6000004,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-5.19999981,-83.0999985,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "44.2000008,-106.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-309,-164.400009,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-222.199997,-164.399994,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-189.600006,-164.399994,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-151.800003,-164.399994,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-125.699997,-164.399994,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-125.699997,-130.5,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-90.8000031,-164.399994,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-90.8000031,-135.800003,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-68.4000015,-134.800003,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-40.0999985,-164.399994,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "-5.19999981,-164.399994,0"
+        },
+        {
+          "tagName": "Tag",
+          "tagDetails": "",
+          "tagPosition": "45.7999992,-164.399994,0"
+        }
+      ]
+    },
+    {
+      "hotSpotName": "Silver Trophies",
+      "hotSpotDetails": "This contains 3 silver trophies. \n\n Click on the green dots to know more",
+      "hotSpotPosition": "9.02999973,-2.26999998,2.61999989",
+      "tagsGroup": [
+        {
+          "tagName": "Silver trophy with Game figures",
+          "tagDetails": "This trophy has game figures of Wrestling, Kabaddi, Athletics and Firing. \n\n Weight of metal: 7.400 Kg. \n\n Original value: 1,01,232/- \n\n Vintage: 2005",
+          "tagPosition": "-156,9,0"
+        },
+        {
+          "tagName": "Silver trophy with 3 silver statues",
+          "tagDetails": "It is instituted in 2004. \n\n Weight of metal: 6.000 Kg. \n\n Original value: 82,080/- \n\n Vintage: 2004",
+          "tagPosition": "-289,-177,0"
+        },
+        {
+          "tagName": "Millennium Trophy",
+          "tagDetails": "Instituted in Nov 2000, this trophy is called Trophy the JAT REGT, Millennium trophy. \n\n Weight of metal: 7.207 Kg. \n\n Original value: 99,316/- \n\n Vintage: 2000",
+          "tagPosition": "-16,-183,0"
+        }
+      ]
+    },
+    {
+      "hotSpotName": "JAT Golf cup",
+      "hotSpotDetails": "It is presented by AEPTA. \n\n Weight of metal: 2.250 Kg. \n\n Original value: 69,525/- \n\n Vintage: 2007",
+      "hotSpotPosition": "6.6500001,-3.96000004,5.23999977",
+      "tagsGroup": null
+    },
+    {
+      "hotSpotName": "Silver Sword",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "5.19000006,-4.57999992,6.67000008",
+      "tagsGroup": null
+    },
+    {
+      "hotSpotName": "Silver Trophy 5",
+      "hotSpotDetails": "",
+      "hotSpotPosition": "2.78999996,-5.38999987,7.5",
+      "tagsGroup": null
+    }
+  ]
+}
